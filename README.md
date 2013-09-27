@@ -7,7 +7,7 @@ Useful if you're lazily loading javascripts based on user interactions.
 
 ### Example Usage
 
-*Passes the supplied paths directly to the `<script>` tag's `src` attribute, so make sure it's qualified.*
+*The supplied url must be fully qualified, hostname and all.*
 
 Single file:
 
