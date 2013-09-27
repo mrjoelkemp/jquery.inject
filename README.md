@@ -23,7 +23,7 @@ Multiple Files:
 
 ```javascript
     $.inject([
-        'http://www.yoursite.com/js/widgetBase.js'',
+        'http://www.yoursite.com/js/widgetBase.js',
         'http://www.yoursite.com/js/weatherWidget.js'
     ])
     .done(function () {
